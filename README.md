@@ -1,5 +1,5 @@
 # crd2ug
-A small script to convert text files with embedded chord symbols as was used by [ChordPro](https://en.wikipedia.org/wiki/ChordPro) to the multi-line format used by [Ultimate Guitar](https://www.ultimate-guitar.com/).
+A small Python3 script to convert text files with embedded chord symbols as was used by [ChordPro](https://en.wikipedia.org/wiki/ChordPro) to the multi-line format used by [Ultimate Guitar](https://www.ultimate-guitar.com/).
 
 For example, this:
 
